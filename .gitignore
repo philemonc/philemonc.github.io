@@ -1,11 +1,4 @@
 *.json
-.vs/philemonc.github.io/FileContentIndex/ebcf21c5-8500-4fe7-84ab-e442cfeabd69.vsidx
-.vs/philemonc.github.io/FileContentIndex/8faaad28-b807-4bbf-aa28-db7fc78d1f70.vsidx
-.vs/philemonc.github.io/v17/.wsuo
-.vs/philemonc.github.io/FileContentIndex/08d0d459-bc5f-4850-88f6-5bd652f7580d.vsidx
-.vs/philemonc.github.io/FileContentIndex/b82f60f6-610c-4ba0-819e-4acd3bb91037.vsidx
-.vs/slnx.sqlite
-.vs/philemonc.github.io/FileContentIndex/16ff9d15-9628-4ccb-88b4-8ccbeddda234.vsidx
-.vs/philemonc.github.io/FileContentIndex/1858f5a4-707c-4bbf-846a-f0b7183ba1ef.vsidx
-.vs/philemonc.github.io/FileContentIndex/9b6345e8-ca36-43fc-8506-37087416e1e3.vsidx
-.vs/philemonc.github.io/FileContentIndex/7c8ab8c9-9dc4-47f7-bfdc-7429bae2f414.vsidx
+*.vsidx
+*.sqlite
+*.wsuo
